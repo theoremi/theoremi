@@ -1,27 +1,36 @@
 # Hi, I'm Emiliano 👋
 
-### Backend Developer | Linux & Open Source enthusiast
+### Backend Developer · Java & Spring Boot · Linux enthusiast
 
-I write code, try to automate the boring stuff, and build small tools that make life a little easier from the terminal.
+I build backend applications with Java and Spring Boot, automate the boring stuff,
+and enjoy exploring how things work under the hood, from shells to emulators.
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 > "Logic first, interfaces later."
 
-## 🛠️ What I'm building right now
+## 🔨 What I'm working on
 
-- 🔥 **[pyre](https://github.com/theoremi/pyre)** - A custom Unix shell built from scratch to explore low-level process management, custom parsing, and asynchronous system signals.
+- ☕ Building REST APIs with **Spring Boot**, first project coming soon.
+- 🦀 Writing low-level personal projects in **Rust**.
 
-## 💻 The Toolbox
+## 📂 Featured projects
 
-- **Languages & Frameworks:** Java, Spring Boot, Python, Bash.
-- **Environment & Devops:** Linux (Fedora), Docker, Git.
-- **Interests:** Modular architectures, backend development, and terminal automation.
+- 🦀 **[CHIP-8 Emulator](https://github.com/theoremi/CHIP-8-Emulator)**: A CHIP-8 emulator written in Rust.
+- 🔥 **[pyre](https://github.com/theoremi/pyre)**: A Unix shell built from scratch to explore process management,
+  parsing, pipes, redirections and system signals.
+
+## 💻 Toolbox
+
+- **Languages:** Java, Rust, SQL, Bash
+- **Backend:** Spring Boot
+- **Environment & DevOps:** Linux (Fedora), Docker, Docker Compose, Git
+- **AI-assisted development:** Claude Code, GitHub Copilot
 
 ## 📈 GitHub Activity
 
@@ -29,9 +38,9 @@ I write code, try to automate the boring stuff, and build small tools that make 
 
 ## 🎨 Outside the terminal
 
-When I'm away from the keyboard, I enjoy **3D Modeling**.
+When I'm away from the keyboard, I enjoy **3D modeling** and playing the **bass**
 
-## 📬 Let's Connect
+## 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-gl-dev/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/theoremi)
