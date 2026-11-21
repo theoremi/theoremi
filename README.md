@@ -2,8 +2,7 @@
 
 ### Backend Developer · Java & Spring Boot · Linux enthusiast
 
-I build backend applications with Java and Spring Boot, automate the boring stuff,
-and enjoy exploring how things work under the hood, from shells to emulators.
+I automate the boring stuff and enjoy exploring how things work under the hood, from shells to emulators.
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
